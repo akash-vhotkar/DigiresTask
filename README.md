@@ -1,7 +1,7 @@
 # Steps to run project
 1 . git clone <utl>
 
-2 . cd clinet
+2 . cd client
   
 3. npm install
   
