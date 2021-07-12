@@ -1,10 +1,10 @@
 const mongoose = require('mongoose');
-module.exports =  mongoose.model("",{
+module.exports =  mongoose.model("Analysis",{
     browser_name:{
         type:String,
         required: true
     },
-    user_ip:{
+    ip:{
         type:String,
         required: true
     },
